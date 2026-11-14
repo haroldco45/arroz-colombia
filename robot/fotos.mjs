@@ -4,7 +4,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 const UA = { 'User-Agent': 'VibrasPositivasHM-robot/1.0 (https://arroz-colombia.netlify.app)' };
 const OUT = 'data/fotos.json';
 const SI = /rice|arroz|oryza|paddy|padi|arrozal|ricefield|rizi[eè]re|reisfeld|sawah/i;
-const NO = /quinoa|amaranth|millet|sorghum|wheat|barley|maize|corn|cake|puff|cracker|wild[ _-]?rice|zizania|sushi|dish|food|meal|curry|fried|bowl|plate|dessert|pudding|risotto|paella|dumpling|noodle|wine|sake|logo|map|chart|diagram|stamp|coin|insect|bird|weevil|bug|beetle|frog|snake|duck|cooked|cooking|recipe|kitchen|restaurant|market stall|porridge|congee|biryani|pilaf|bibimbap|onigiri|mochi|tteok|straw art|doll|museum|painting|drawing|book|text|svg|portrait|selfie|ceremony|festival|church|temple|statue/i;
+const NO = /atollad|arroz con|arroz de |chaufa|tamal|sancocho|guiso|quinoa|amaranth|millet|sorghum|wheat|barley|maize|corn|cake|puff|cracker|wild[ _-]?rice|zizania|sushi|dish|food|meal|curry|fried|bowl|plate|dessert|pudding|risotto|paella|dumpling|noodle|wine|sake|logo|map|chart|diagram|stamp|coin|insect|bird|weevil|bug|beetle|frog|snake|duck|cooked|cooking|recipe|kitchen|restaurant|market stall|porridge|congee|biryani|pilaf|bibimbap|onigiri|mochi|tteok|straw art|doll|museum|painting|drawing|book|text|svg|portrait|selfie|ceremony|festival|church|temple|statue/i;
 const SECCIONES = {
   hero:     ['rice paddy field', 'rice field landscape', 'Oryza sativa field'],
   cultivo:  ['rice paddy field', 'rice planting farmers', 'rice seedlings paddy', 'Oryza sativa plants'],
