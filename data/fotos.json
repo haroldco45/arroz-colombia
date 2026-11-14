@@ -1,1 +1,1051 @@
-{"actualizado":"2000-01-01T00:00:00Z","secciones":{},"videos":[]}
+{
+ "actualizado": "2026-11-14T19:52:43.482Z",
+ "secciones": {
+  "hero": [
+   {
+    "titulo": "File:France rice field in camargue.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/France_rice_field_in_camargue.jpg/960px-France_rice_field_in_camargue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/France_rice_field_in_camargue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:France_rice_field_in_camargue.jpg",
+    "w": 2272,
+    "h": 1704,
+    "autor": "Rolf Süssbrich",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Blond and green rice fields.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Blond_and_green_rice_fields.jpg/960px-Blond_and_green_rice_fields.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Blond_and_green_rice_fields.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Blond_and_green_rice_fields.jpg",
+    "w": 6249,
+    "h": 3515,
+    "autor": "Basile Morin",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Sunrise on paddy fields near Eluru (4).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sunrise_on_paddy_fields_near_Eluru_%284%29.jpg/960px-Sunrise_on_paddy_fields_near_Eluru_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sunrise_on_paddy_fields_near_Eluru_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunrise_on_paddy_fields_near_Eluru_(4).jpg",
+    "w": 6000,
+    "h": 4000,
+    "autor": "iMahesh",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Paddy crop near Malkapuram, Eluru.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Paddy_crop_near_Malkapuram%2C_Eluru.jpg/960px-Paddy_crop_near_Malkapuram%2C_Eluru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/5/52/Paddy_crop_near_Malkapuram%2C_Eluru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Paddy_crop_near_Malkapuram,_Eluru.jpg",
+    "w": 6000,
+    "h": 4000,
+    "autor": "iMahesh",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Paddy fields in Dinajpur District 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Paddy_fields_in_Dinajpur_District_01.jpg/960px-Paddy_fields_in_Dinajpur_District_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Paddy_fields_in_Dinajpur_District_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Paddy_fields_in_Dinajpur_District_01.jpg",
+    "w": 5472,
+    "h": 3648,
+    "autor": "Kritzolina",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Planted paddy fields with men at work and mountains of Vang Vieng in Laos.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Planted_paddy_fields_with_men_at_work_and_mountains_of_Vang_Vieng_in_Laos.jpg/960px-Planted_paddy_fields_with_men_at_work_and_mountains_of_Vang_Vieng_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/89/Planted_paddy_fields_with_men_at_work_and_mountains_of_Vang_Vieng_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Planted_paddy_fields_with_men_at_work_and_mountains_of_Vang_Vieng_in_Laos.jpg",
+    "w": 6503,
+    "h": 3658,
+    "autor": "Basile Morin",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Tortuous dirt road in wet paddy fields and green hills in Vang Vieng, Laos.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tortuous_dirt_road_in_wet_paddy_fields_and_green_hills_in_Vang_Vieng%2C_Laos.jpg/960px-Tortuous_dirt_road_in_wet_paddy_fields_and_green_hills_in_Vang_Vieng%2C_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tortuous_dirt_road_in_wet_paddy_fields_and_green_hills_in_Vang_Vieng%2C_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Tortuous_dirt_road_in_wet_paddy_fields_and_green_hills_in_Vang_Vieng,_Laos.jpg",
+    "w": 6669,
+    "h": 4168,
+    "autor": "Basile Morin",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Water reflection of a dirt road in green paddy fields, karst mountains and clouds at sunset in Vang Vieng Laos.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Water_reflection_of_a_dirt_road_in_green_paddy_fields%2C_karst_mountains_and_clouds_at_sunset_in_Vang_Vieng_Laos.jpg/960px-Water_reflection_of_a_dirt_road_in_green_paddy_fields%2C_karst_mountains_and_clouds_at_sunset_in_Vang_Vieng_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/15/Water_reflection_of_a_dirt_road_in_green_paddy_fields%2C_karst_mountains_and_clouds_at_sunset_in_Vang_Vieng_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_a_dirt_road_in_green_paddy_fields,_karst_mountains_and_clouds_at_sunset_in_Vang_Vieng_Laos.jpg",
+    "w": 6572,
+    "h": 4382,
+    "autor": "Basile Morin",
+    "lic": "CC BY-SA 4.0"
+   }
+  ],
+  "cultivo": [
+   {
+    "titulo": "File:Tranplant-rice-tahiland.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Tranplant-rice-tahiland.JPG/960px-Tranplant-rice-tahiland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Tranplant-rice-tahiland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Tranplant-rice-tahiland.JPG",
+    "w": 1152,
+    "h": 864,
+    "autor": "No machine-readable author provided. Chiba007~commonswiki as",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:India - Sights & Culture - Planting Rice Paddy 3 (5208915352).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_3_%285208915352%29.jpg/960px-India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_3_%285208915352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_3_%285208915352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_3_(5208915352).jpg",
+    "w": 3264,
+    "h": 2448,
+    "autor": "McKay Savage from London, UK",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:India - Sights & Culture - Planting Rice Paddy 1 (5208293805).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_1_%285208293805%29.jpg/960px-India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_1_%285208293805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/0e/India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_1_%285208293805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_1_(5208293805).jpg",
+    "w": 3264,
+    "h": 2448,
+    "autor": "McKay Savage from London, UK",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:India - Sights & Culture - Planting Rice Paddy 5 (3245008474).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_5_%283245008474%29.jpg/960px-India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_5_%283245008474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/2/2b/India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_5_%283245008474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_5_(3245008474).jpg",
+    "w": 3264,
+    "h": 2448,
+    "autor": "McKay Savage from London, UK",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:India - Sights & Culture - Planting Rice Paddy 6 (3245011208).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_6_%283245011208%29.jpg/960px-India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_6_%283245011208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_6_%283245011208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:India_-_Sights_%26_Culture_-_Planting_Rice_Paddy_6_(3245011208).jpg",
+    "w": 3264,
+    "h": 2448,
+    "autor": "McKay Savage from London, UK",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:2014 Rice planting Mae Chan district 1.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2014_Rice_planting_Mae_Chan_district_1.jpg/960px-2014_Rice_planting_Mae_Chan_district_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/2014_Rice_planting_Mae_Chan_district_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:2014_Rice_planting_Mae_Chan_district_1.jpg",
+    "w": 2550,
+    "h": 1913,
+    "autor": "Takeaway",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Cambodian farmers planting rice.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Cambodian_farmers_planting_rice.jpg/960px-Cambodian_farmers_planting_rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cambodian_farmers_planting_rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Cambodian_farmers_planting_rice.jpg",
+    "w": 3008,
+    "h": 2000,
+    "autor": "Brad Collis",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:2014 Rice planting Mae Chan district 3.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2014_Rice_planting_Mae_Chan_district_3.jpg/960px-2014_Rice_planting_Mae_Chan_district_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/2014_Rice_planting_Mae_Chan_district_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:2014_Rice_planting_Mae_Chan_district_3.jpg",
+    "w": 2550,
+    "h": 1130,
+    "autor": "Takeaway",
+    "lic": "CC BY-SA 4.0"
+   }
+  ],
+  "insumos": [
+   {
+    "titulo": "File:Paddy fields at Kadavoor.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Paddy_fields_at_Kadavoor.jpg/960px-Paddy_fields_at_Kadavoor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Paddy_fields_at_Kadavoor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Paddy_fields_at_Kadavoor.jpg",
+    "w": 3648,
+    "h": 2736,
+    "autor": "Jeevan Jose, Kerala, India",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Oryza sativa MHNT.BOT.2015.2.52.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Oryza_sativa_MHNT.BOT.2015.2.52.jpg/960px-Oryza_sativa_MHNT.BOT.2015.2.52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/6/60/Oryza_sativa_MHNT.BOT.2015.2.52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Oryza_sativa_MHNT.BOT.2015.2.52.jpg",
+    "w": 4510,
+    "h": 3298,
+    "autor": "Roger Culos",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Korea-Gyeongju-Sunset. on rice.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Korea-Gyeongju-Sunset._on_rice.jpg/960px-Korea-Gyeongju-Sunset._on_rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/4/47/Korea-Gyeongju-Sunset._on_rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Sunset._on_rice.jpg",
+    "w": 2816,
+    "h": 2112,
+    "autor": "Andrew Bell",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:Woodruff Paddy Fields.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Woodruff_Paddy_Fields.jpg/960px-Woodruff_Paddy_Fields.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Woodruff_Paddy_Fields.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Woodruff_Paddy_Fields.jpg",
+    "w": 2096,
+    "h": 969,
+    "autor": "http://stujophoto.com/ Lake Tahoe Event Photography",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Graining paddy crops.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Graining_paddy_crops.jpg/960px-Graining_paddy_crops.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Graining_paddy_crops.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Graining_paddy_crops.jpg",
+    "w": 1280,
+    "h": 720,
+    "autor": "Anubhab shil",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Threshing Rice (1914 by Elstner Hilton).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Threshing_Rice_%281914_by_Elstner_Hilton%29.jpg/960px-Threshing_Rice_%281914_by_Elstner_Hilton%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Threshing_Rice_%281914_by_Elstner_Hilton%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Threshing_Rice_(1914_by_Elstner_Hilton).jpg",
+    "w": 7313,
+    "h": 5178,
+    "autor": "A.Davey from Portland, Oregon, EE UU",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:Hand with rice grain.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hand_with_rice_grain.jpg/960px-Hand_with_rice_grain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/81/Hand_with_rice_grain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Hand_with_rice_grain.jpg",
+    "w": 3456,
+    "h": 2304,
+    "autor": "Erfanebrahimsait",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Rice Farm (226729919).jpeg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rice_Farm_%28226729919%29.jpeg/960px-Rice_Farm_%28226729919%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rice_Farm_%28226729919%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_Farm_(226729919).jpeg",
+    "w": 2048,
+    "h": 1367,
+    "autor": "Esmail Golshan Mojdehi",
+    "lic": "CC BY-SA 3.0"
+   }
+  ],
+  "zonas": [
+   {
+    "titulo": "File:Cultivo de arroz.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Cultivo_de_arroz.jpg/960px-Cultivo_de_arroz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cultivo_de_arroz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Cultivo_de_arroz.jpg",
+    "w": 1280,
+    "h": 960,
+    "autor": "Chilangoco",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Arroz atollado.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Arroz_atollado.jpg/960px-Arroz_atollado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Arroz_atollado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Arroz_atollado.jpg",
+    "w": 1024,
+    "h": 768,
+    "autor": "Olavia Kite from Tokyo, Japan",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:Cultivo de arroz (164326235).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Cultivo_de_arroz_%28164326235%29.jpg/960px-Cultivo_de_arroz_%28164326235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cultivo_de_arroz_%28164326235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Cultivo_de_arroz_(164326235).jpg",
+    "w": 1280,
+    "h": 960,
+    "autor": "Edgar Jiménez from Porto, Portugal",
+    "lic": "CC BY-SA 2.0"
+   },
+   {
+    "titulo": "File:Arroz con coco.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Arroz_con_coco.JPG/960px-Arroz_con_coco.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Arroz_con_coco.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Arroz_con_coco.JPG",
+    "w": 1280,
+    "h": 960,
+    "autor": "Adriblanco",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Cultivo de arroz en Distracción.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Cultivo_de_arroz_en_Distracci%C3%B3n.JPG/960px-Cultivo_de_arroz_en_Distracci%C3%B3n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Cultivo_de_arroz_en_Distracci%C3%B3n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Cultivo_de_arroz_en_Distracci%C3%B3n.JPG",
+    "w": 4608,
+    "h": 3072,
+    "autor": "Alejandrorestrepouribe",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:COSECHA DE ARROZ - panoramio.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/COSECHA_DE_ARROZ_-_panoramio.jpg/960px-COSECHA_DE_ARROZ_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/COSECHA_DE_ARROZ_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:COSECHA_DE_ARROZ_-_panoramio.jpg",
+    "w": 3472,
+    "h": 2604,
+    "autor": "JUAN DIEGO CHABUR",
+    "lic": "CC BY 3.0"
+   },
+   {
+    "titulo": "File:Campo de arroz 134.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Campo_de_arroz_134.jpg/960px-Campo_de_arroz_134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Campo_de_arroz_134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Campo_de_arroz_134.jpg",
+    "w": 4608,
+    "h": 3456,
+    "autor": "J.J.P. Santiago",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Cultivo de arroz en Distracción .jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cultivo_de_arroz_en_Distracci%C3%B3n_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cultivo_de_arroz_en_Distracci%C3%B3n_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Cultivo_de_arroz_en_Distracci%C3%B3n_.jpg",
+    "w": 960,
+    "h": 640,
+    "autor": "Alejandrorestrepouribe",
+    "lic": "CC BY-SA 4.0"
+   }
+  ],
+  "molino": [
+   {
+    "titulo": "File:Middleton-place-rice-mill-sc1.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Middleton-place-rice-mill-sc1.jpg/960px-Middleton-place-rice-mill-sc1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Middleton-place-rice-mill-sc1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Middleton-place-rice-mill-sc1.jpg",
+    "w": 1200,
+    "h": 900,
+    "autor": "Brian Stansberry",
+    "lic": "CC BY 3.0"
+   },
+   {
+    "titulo": "File:Haraguchi Rice Mill, Hanalei River, Hanalei (Kauai County, Hawaii).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Haraguchi_Rice_Mill%2C_Hanalei_River%2C_Hanalei_%28Kauai_County%2C_Hawaii%29.jpg/960px-Haraguchi_Rice_Mill%2C_Hanalei_River%2C_Hanalei_%28Kauai_County%2C_Hawaii%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Haraguchi_Rice_Mill%2C_Hanalei_River%2C_Hanalei_%28Kauai_County%2C_Hawaii%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Haraguchi_Rice_Mill,_Hanalei_River,_Hanalei_(Kauai_County,_Hawaii).jpg",
+    "w": 4534,
+    "h": 2807,
+    "autor": "David Franzen, Photographer",
+    "lic": "Public domain"
+   },
+   {
+    "titulo": "File:Rice-mills-in-Gelemenovo.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Rice-mills-in-Gelemenovo.jpg/960px-Rice-mills-in-Gelemenovo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Rice-mills-in-Gelemenovo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice-mills-in-Gelemenovo.jpg",
+    "w": 1000,
+    "h": 660,
+    "autor": "Edal Anton Lefterov",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Women milling rice. (4115408622).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Women_milling_rice._%284115408622%29.jpg/960px-Women_milling_rice._%284115408622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Women_milling_rice._%284115408622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Women_milling_rice._(4115408622).jpg",
+    "w": 1600,
+    "h": 1063,
+    "autor": "Greg Willis from Denver, CO, usa",
+    "lic": "CC BY-SA 2.0"
+   },
+   {
+    "titulo": "File:Rice coming out of rice micro mill - IRRI Images.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Rice_coming_out_of_rice_micro_mill_-_IRRI_Images.jpg/960px-Rice_coming_out_of_rice_micro_mill_-_IRRI_Images.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/Rice_coming_out_of_rice_micro_mill_-_IRRI_Images.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_coming_out_of_rice_micro_mill_-_IRRI_Images.jpg",
+    "w": 3216,
+    "h": 2136,
+    "autor": "IRRI Images",
+    "lic": "CC BY 2.0"
+   },
+   {
+    "titulo": "File:Rice mill, Kampung Rawa 2014-06-20.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Rice_mill%2C_Kampung_Rawa_2014-06-20.jpg/960px-Rice_mill%2C_Kampung_Rawa_2014-06-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rice_mill%2C_Kampung_Rawa_2014-06-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_mill,_Kampung_Rawa_2014-06-20.jpg",
+    "w": 4084,
+    "h": 2843,
+    "autor": "Crisco 1492",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:RICE MILL - Haraguchi Rice Mill, Hanalei River, Hanalei, Kauai County, HI HAER HI,4-HANLI,1-2.tif",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RICE_MILL_-_Haraguchi_Rice_Mill%2C_Hanalei_River%2C_Hanalei%2C_Kauai_County%2C_HI_HAER_HI%2C4-HANLI%2C1-2.tif/lossy-page1-960px-RICE_MILL_-_Haraguchi_Rice_Mill%2C_Hanalei_River%2C_Hanalei%2C_Kauai_County%2C_HI_HAER_HI%2C4-HANLI%2C1-2.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/RICE_MILL_-_Haraguchi_Rice_Mill%2C_Hanalei_River%2C_Hanalei%2C_Kauai_County%2C_HI_HAER_HI%2C4-HANLI%2C1-2.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:RICE_MILL_-_Haraguchi_Rice_Mill,_Hanalei_River,_Hanalei,_Kauai_County,_HI_HAER_HI,4-HANLI,1-2.tif",
+    "w": 4961,
+    "h": 3970,
+    "autor": "Wikimedia Commons",
+    "lic": "Public domain"
+   },
+   {
+    "titulo": "File:KITLV - 158788 - Kurkdjian - Sourabaia-Java - Rice mill in Minahasa - circa 1900.tiff",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/KITLV_-_158788_-_Kurkdjian_-_Sourabaia-Java_-_Rice_mill_in_Minahasa_-_circa_1900.tiff/lossy-page1-960px-KITLV_-_158788_-_Kurkdjian_-_Sourabaia-Java_-_Rice_mill_in_Minahasa_-_circa_1900.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/0a/KITLV_-_158788_-_Kurkdjian_-_Sourabaia-Java_-_Rice_mill_in_Minahasa_-_circa_1900.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:KITLV_-_158788_-_Kurkdjian_-_Sourabaia-Java_-_Rice_mill_in_Minahasa_-_circa_1900.tiff",
+    "w": 4618,
+    "h": 3424,
+    "autor": "Ohannes Kurkdjian",
+    "lic": "Public domain"
+   }
+  ],
+  "mundo": [
+   {
+    "titulo": "File:Rice Terraces Banaue.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Rice_Terraces_Banaue.jpg/960px-Rice_Terraces_Banaue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rice_Terraces_Banaue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_Terraces_Banaue.jpg",
+    "w": 1157,
+    "h": 791,
+    "autor": "Magalhães",
+    "lic": "Public domain"
+   },
+   {
+    "titulo": "File:Banaue Rice Terrace Close Up (2).JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Banaue_Rice_Terrace_Close_Up_%282%29.JPG/960px-Banaue_Rice_Terrace_Close_Up_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Banaue_Rice_Terrace_Close_Up_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Banaue_Rice_Terrace_Close_Up_(2).JPG",
+    "w": 3888,
+    "h": 2592,
+    "autor": "Agricmarketing at en.wikipedia",
+    "lic": "Public domain"
+   },
+   {
+    "titulo": "File:Rice terraces, Sopsokha, Bhutan 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Rice_terraces%2C_Sopsokha%2C_Bhutan_01.jpg/960px-Rice_terraces%2C_Sopsokha%2C_Bhutan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rice_terraces%2C_Sopsokha%2C_Bhutan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Sopsokha,_Bhutan_01.jpg",
+    "w": 5184,
+    "h": 3456,
+    "autor": "Bernard Gagnon",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Rice terraces, Sopsokha, Bhutan 02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rice_terraces%2C_Sopsokha%2C_Bhutan_02.jpg/960px-Rice_terraces%2C_Sopsokha%2C_Bhutan_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/5/53/Rice_terraces%2C_Sopsokha%2C_Bhutan_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Sopsokha,_Bhutan_02.jpg",
+    "w": 5456,
+    "h": 3632,
+    "autor": "Bernard Gagnon",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Pana Banaue Rice Terraces (Cropped).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Pana_Banaue_Rice_Terraces_%28Cropped%29.jpg/960px-Pana_Banaue_Rice_Terraces_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pana_Banaue_Rice_Terraces_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Pana_Banaue_Rice_Terraces_(Cropped).jpg",
+    "w": 4070,
+    "h": 1969,
+    "autor": "User:Ori~",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Banaue rice terraces.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Banaue_rice_terraces.jpg/960px-Banaue_rice_terraces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/4/42/Banaue_rice_terraces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Banaue_rice_terraces.jpg",
+    "w": 6000,
+    "h": 4000,
+    "autor": "Larsjepp",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Banaue Rice Terraces 2018-11.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Banaue_Rice_Terraces_2018-11.jpg/960px-Banaue_Rice_Terraces_2018-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/3/35/Banaue_Rice_Terraces_2018-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Banaue_Rice_Terraces_2018-11.jpg",
+    "w": 3968,
+    "h": 2976,
+    "autor": "Germartin1",
+    "lic": "CC0"
+   },
+   {
+    "titulo": "File:Longsheng Rice Terraces November 2017 005.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Longsheng_Rice_Terraces_November_2017_005.jpg/960px-Longsheng_Rice_Terraces_November_2017_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Longsheng_Rice_Terraces_November_2017_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Longsheng_Rice_Terraces_November_2017_005.jpg",
+    "w": 6016,
+    "h": 4016,
+    "autor": "King of Hearts",
+    "lic": "CC BY-SA 4.0"
+   }
+  ],
+  "innov": [
+   {
+    "titulo": "File:Rice-planting-machine,katori-city,japan.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Rice-planting-machine%2Ckatori-city%2Cjapan.JPG/960px-Rice-planting-machine%2Ckatori-city%2Cjapan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/Rice-planting-machine%2Ckatori-city%2Cjapan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice-planting-machine,katori-city,japan.JPG",
+    "w": 1600,
+    "h": 1200,
+    "autor": "katorisi",
+    "lic": "CC BY 2.5"
+   },
+   {
+    "titulo": "File:Rice-planting-machine 2,katori-city,japan.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Rice-planting-machine_2%2Ckatori-city%2Cjapan.JPG/960px-Rice-planting-machine_2%2Ckatori-city%2Cjapan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rice-planting-machine_2%2Ckatori-city%2Cjapan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice-planting-machine_2,katori-city,japan.JPG",
+    "w": 1600,
+    "h": 1200,
+    "autor": "katorisi",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Seedbed of the rice,Katori-city,Japan.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Seedbed_of_the_rice%2CKatori-city%2CJapan.JPG/960px-Seedbed_of_the_rice%2CKatori-city%2CJapan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Seedbed_of_the_rice%2CKatori-city%2CJapan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Seedbed_of_the_rice,Katori-city,Japan.JPG",
+    "w": 3872,
+    "h": 2592,
+    "autor": "katorisi",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Rice Transplanter in India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rice_Transplanter_in_India.jpg/960px-Rice_Transplanter_in_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rice_Transplanter_in_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_Transplanter_in_India.jpg",
+    "w": 4000,
+    "h": 3000,
+    "autor": "Nikhil.irri",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "titulo": "File:Redlands Rice-Transplanter-RP824.png",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Redlands_Rice-Transplanter-RP824.png/960px-Redlands_Rice-Transplanter-RP824.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Redlands_Rice-Transplanter-RP824.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Redlands_Rice-Transplanter-RP824.png",
+    "w": 1200,
+    "h": 800,
+    "autor": "Ash901",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Manual Rice transplanter.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Manual_Rice_transplanter.jpg/960px-Manual_Rice_transplanter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Manual_Rice_transplanter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Manual_Rice_transplanter.jpg",
+    "w": 4160,
+    "h": 2340,
+    "autor": "Ankitha olavilam",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Rice transplantation.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Rice_transplantation.jpg/960px-Rice_transplantation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rice_transplantation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_transplantation.jpg",
+    "w": 3024,
+    "h": 2016,
+    "autor": "youngki son",
+    "lic": "CC0"
+   },
+   {
+    "titulo": "File:Transplanting rice seedlings by machine in rural Japan in March 1994.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Transplanting_rice_seedlings_by_machine_in_rural_Japan_in_March_1994.jpg/960px-Transplanting_rice_seedlings_by_machine_in_rural_Japan_in_March_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/Transplanting_rice_seedlings_by_machine_in_rural_Japan_in_March_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Transplanting_rice_seedlings_by_machine_in_rural_Japan_in_March_1994.jpg",
+    "w": 5070,
+    "h": 3283,
+    "autor": "Gpwitteveen",
+    "lic": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ "videos": [
+  {
+   "titulo": "File:Bula Rice harvest WTR.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bula_Rice_harvest_WTR.webm/960px--Bula_Rice_harvest_WTR.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bula_Rice_harvest_WTR.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bula_Rice_harvest_WTR.webm",
+   "w": 1280,
+   "h": 720,
+   "autor": "Yawrei",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "titulo": "File:Rice field Japan autumn.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Rice_field_Japan_autumn.webm/960px--Rice_field_Japan_autumn.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rice_field_Japan_autumn.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rice_field_Japan_autumn.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "Shironsilentpond",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0033-Rice Harvest.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/20200724-NRCS-LSC-0033-Rice_Harvest.webm/960px--20200724-NRCS-LSC-0033-Rice_Harvest.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/20200724-NRCS-LSC-0033-Rice_Harvest.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0033-Rice_Harvest.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0706-Rice Harvest.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/20200724-NRCS-LSC-0706-Rice_Harvest.webm/960px--20200724-NRCS-LSC-0706-Rice_Harvest.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/20200724-NRCS-LSC-0706-Rice_Harvest.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0706-Rice_Harvest.webm",
+   "w": 1920,
+   "h": 1078,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0035-Rice Harvest.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/20200724-NRCS-LSC-0035-Rice_Harvest.webm/960px--20200724-NRCS-LSC-0035-Rice_Harvest.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/20200724-NRCS-LSC-0035-Rice_Harvest.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0035-Rice_Harvest.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0027-Rice Harvest.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/20200724-NRCS-LSC-0027-Rice_Harvest.webm/960px--20200724-NRCS-LSC-0027-Rice_Harvest.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/20200724-NRCS-LSC-0027-Rice_Harvest.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0027-Rice_Harvest.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0028-Rice Harvest.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/20200724-NRCS-LSC-0028-Rice_Harvest.webm/960px--20200724-NRCS-LSC-0028-Rice_Harvest.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/20200724-NRCS-LSC-0028-Rice_Harvest.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0028-Rice_Harvest.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0030-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/20200724-NRCS-LSC-0030-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0030-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/4/46/20200724-NRCS-LSC-0030-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0030-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0029-Rice Harvest.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/20200724-NRCS-LSC-0029-Rice_Harvest.webm/960px--20200724-NRCS-LSC-0029-Rice_Harvest.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/5/58/20200724-NRCS-LSC-0029-Rice_Harvest.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0029-Rice_Harvest.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0029-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/20200724-NRCS-LSC-0029-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0029-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/20200724-NRCS-LSC-0029-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0029-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0037-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20200724-NRCS-LSC-0037-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0037-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/8/81/20200724-NRCS-LSC-0037-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0037-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0025-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/20200724-NRCS-LSC-0025-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0025-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/20200724-NRCS-LSC-0025-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0025-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0039-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/20200724-NRCS-LSC-0039-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0039-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/c/c4/20200724-NRCS-LSC-0039-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0039-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0040-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/20200724-NRCS-LSC-0040-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0040-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/20200724-NRCS-LSC-0040-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0040-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0038-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/20200724-NRCS-LSC-0038-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0038-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/20200724-NRCS-LSC-0038-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0038-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0709-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/20200724-NRCS-LSC-0709-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0709-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/1/14/20200724-NRCS-LSC-0709-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0709-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0536-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/20200724-NRCS-LSC-0536-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0536-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/b/b2/20200724-NRCS-LSC-0536-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0536-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0042-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/20200724-NRCS-LSC-0042-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0042-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/b/bd/20200724-NRCS-LSC-0042-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0042-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0041-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/20200724-NRCS-LSC-0041-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0041-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/20200724-NRCS-LSC-0041-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0041-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0032-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/20200724-NRCS-LSC-0032-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0032-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/20200724-NRCS-LSC-0032-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0032-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:20200724-NRCS-LSC-0022-Rice Harvesting.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/20200724-NRCS-LSC-0022-Rice_Harvesting.webm/960px--20200724-NRCS-LSC-0022-Rice_Harvesting.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/20200724-NRCS-LSC-0022-Rice_Harvesting.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:20200724-NRCS-LSC-0022-Rice_Harvesting.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "USDAgov",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:Rice Harvest in Japan.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Rice_Harvest_in_Japan.webm/960px--Rice_Harvest_in_Japan.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/Rice_Harvest_in_Japan.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rice_Harvest_in_Japan.webm",
+   "w": 1440,
+   "h": 1080,
+   "autor": "from the film «Lumière, l’aventure continue» (Thierry Frémau",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:A-novel-machine-vision-based-facility-for-the-automatic-evaluation-of-yield-related-traits-in-rice-1746-4811-7-44-S1.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/A-novel-machine-vision-based-facility-for-the-automatic-evaluation-of-yield-related-traits-in-rice-1746-4811-7-44-S1.ogv/330px--A-novel-machine-vision-based-facility-for-the-automatic-evaluation-of-yield-related-traits-in-rice-1746-4811-7-44-S1.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/A-novel-machine-vision-based-facility-for-the-automatic-evaluation-of-yield-related-traits-in-rice-1746-4811-7-44-S1.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:A-novel-machine-vision-based-facility-for-the-automatic-evaluation-of-yield-related-traits-in-rice-1746-4811-7-44-S1.ogv",
+   "w": 496,
+   "h": 272,
+   "autor": "Duan L, Yang W, Huang C, Liu Q",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "titulo": "File:Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-(Oryza-sativa)-1471-2229-11-172-S1.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S1.ogv/120px--Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S1.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S1.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-(Oryza-sativa)-1471-2229-11-172-S1.ogv",
+   "w": 218,
+   "h": 340,
+   "autor": "Ishikawa S, Suzui N, Ito-Tanabata S, Ishii S, Igura M, Abe T",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "titulo": "File:Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-(Oryza-sativa)-1471-2229-11-172-S2.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S2.ogv/250px--Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S2.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/8/81/Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S2.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-(Oryza-sativa)-1471-2229-11-172-S2.ogv",
+   "w": 258,
+   "h": 392,
+   "autor": "Ishikawa S, Suzui N, Ito-Tanabata S, Ishii S, Igura M, Abe T",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "titulo": "File:Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-(Oryza-sativa)-1471-2229-11-172-S4.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S4.ogv/120px--Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S4.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-%28Oryza-sativa%29-1471-2229-11-172-S4.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Real-time-imaging-and-analysis-of-differences-in-cadmium-dynamics-in-rice-cultivars-(Oryza-sativa)-1471-2229-11-172-S4.ogv",
+   "w": 218,
+   "h": 340,
+   "autor": "Ishikawa S, Suzui N, Ito-Tanabata S, Ishii S, Igura M, Abe T",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s015.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s015.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s015.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s015.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s015.ogv",
+   "w": 512,
+   "h": 512,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s016.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s016.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s016.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s016.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s016.ogv",
+   "w": 512,
+   "h": 512,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s017.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s017.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s017.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s017.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s017.ogv",
+   "w": 512,
+   "h": 512,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s018.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s018.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s018.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s018.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s018.ogv",
+   "w": 512,
+   "h": 512,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s019.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s019.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s019.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s019.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s019.ogv",
+   "w": 512,
+   "h": 512,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s020.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s020.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s020.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s020.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s020.ogv",
+   "w": 512,
+   "h": 512,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s021.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s021.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s021.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s021.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s021.ogv",
+   "w": 512,
+   "h": 512,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s022.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s022.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s022.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s022.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s022.ogv",
+   "w": 512,
+   "h": 512,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s023.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s023.ogv/330px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s023.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/4/47/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s023.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s023.ogv",
+   "w": 490,
+   "h": 480,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s024.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s024.ogv/500px--Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s024.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s024.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Retromer-Is-Essential-for-Autophagy-Dependent-Plant-Infection-by-the-Rice-Blast-Fungus-pgen.1005704.s024.ogv",
+   "w": 591,
+   "h": 808,
+   "autor": "Zheng W, Zhou J, He Y, Xie Q, Chen A, Zheng H, Shi L, Zhao X",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "titulo": "File:Tamper-evident unrepeatable-pattern security principle demonstrated by securing a phone with rice patterns.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Tamper-evident_unrepeatable-pattern_security_principle_demonstrated_by_securing_a_phone_with_rice_patterns.ogv/500px--Tamper-evident_unrepeatable-pattern_security_principle_demonstrated_by_securing_a_phone_with_rice_patterns.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/7/77/Tamper-evident_unrepeatable-pattern_security_principle_demonstrated_by_securing_a_phone_with_rice_patterns.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Tamper-evident_unrepeatable-pattern_security_principle_demonstrated_by_securing_a_phone_with_rice_patterns.ogv",
+   "w": 768,
+   "h": 576,
+   "autor": "MarkJFernandes",
+   "lic": "CC0"
+  },
+  {
+   "titulo": "File:52. Сложени скробни зрна од ориз (Oryza sativa).ogg",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/52._%D0%A1%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8_%D1%81%D0%BA%D1%80%D0%BE%D0%B1%D0%BD%D0%B8_%D0%B7%D1%80%D0%BD%D0%B0_%D0%BE%D0%B4_%D0%BE%D1%80%D0%B8%D0%B7_%28Oryza_sativa%29.ogg/960px--52._%D0%A1%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8_%D1%81%D0%BA%D1%80%D0%BE%D0%B1%D0%BD%D0%B8_%D0%B7%D1%80%D0%BD%D0%B0_%D0%BE%D0%B4_%D0%BE%D1%80%D0%B8%D0%B7_%28Oryza_sativa%29.ogg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/52._%D0%A1%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8_%D1%81%D0%BA%D1%80%D0%BE%D0%B1%D0%BD%D0%B8_%D0%B7%D1%80%D0%BD%D0%B0_%D0%BE%D0%B4_%D0%BE%D1%80%D0%B8%D0%B7_%28Oryza_sativa%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:52._%D0%A1%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8_%D1%81%D0%BA%D1%80%D0%BE%D0%B1%D0%BD%D0%B8_%D0%B7%D1%80%D0%BD%D0%B0_%D0%BE%D0%B4_%D0%BE%D1%80%D0%B8%D0%B7_(Oryza_sativa).ogg",
+   "w": 1920,
+   "h": 1080,
+   "autor": "Deni Ingilizovski",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "titulo": "File:Threshing rice by hand 1920x1080.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Threshing_rice_by_hand_1920x1080.ogv/960px--Threshing_rice_by_hand_1920x1080.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Threshing_rice_by_hand_1920x1080.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Threshing_rice_by_hand_1920x1080.ogv",
+   "w": 1920,
+   "h": 1080,
+   "autor": "Brian Dell",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:Threshing rice by hand 320x180.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Threshing_rice_by_hand_320x180.ogv/250px--Threshing_rice_by_hand_320x180.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Threshing_rice_by_hand_320x180.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Threshing_rice_by_hand_320x180.ogv",
+   "w": 320,
+   "h": 180,
+   "autor": "Brian Dell",
+   "lic": "Public domain"
+  },
+  {
+   "titulo": "File:Rice-Terrace.theora.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rice-Terrace.theora.ogv/960px--Rice-Terrace.theora.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rice-Terrace.theora.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rice-Terrace.theora.ogv",
+   "w": 2560,
+   "h": 1080,
+   "autor": "Juneglp",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "titulo": "File:Sowing rice in Italy.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sowing_rice_in_Italy.webm/960px--Sowing_rice_in_Italy.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sowing_rice_in_Italy.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sowing_rice_in_Italy.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "Nicola Quirico",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "titulo": "File:Paddy Fields.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Paddy_Fields.webm/960px--Paddy_Fields.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Paddy_Fields.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Paddy_Fields.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "Bhuvi Uniyal",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "titulo": "File:Rice transplanter in use - rural Kanagawa - 2023 June 13.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Rice_transplanter_in_use_-_rural_Kanagawa_-_2023_June_13.webm/960px--Rice_transplanter_in_use_-_rural_Kanagawa_-_2023_June_13.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Rice_transplanter_in_use_-_rural_Kanagawa_-_2023_June_13.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Rice_transplanter_in_use_-_rural_Kanagawa_-_2023_June_13.webm",
+   "w": 3840,
+   "h": 2160,
+   "autor": "Nesnad",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "titulo": "File:Umerum Rice Field 02.mpg",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Umerum_Rice_Field_02.mpg/960px--Umerum_Rice_Field_02.mpg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Umerum_Rice_Field_02.mpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Umerum_Rice_Field_02.mpg",
+   "w": 960,
+   "h": 540,
+   "autor": "Onyinyeonuoha",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "titulo": "File:Mardege eme di sawah Mandailing Natal.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Mardege_eme_di_sawah_Mandailing_Natal.webm/960px--Mardege_eme_di_sawah_Mandailing_Natal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mardege_eme_di_sawah_Mandailing_Natal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Mardege_eme_di_sawah_Mandailing_Natal.webm",
+   "w": 1920,
+   "h": 1080,
+   "autor": "IHLubis",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "titulo": "File:Human-powered waterwheel for rice paddies.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Human-powered_waterwheel_for_rice_paddies.webm/960px--Human-powered_waterwheel_for_rice_paddies.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/Human-powered_waterwheel_for_rice_paddies.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Human-powered_waterwheel_for_rice_paddies.webm",
+   "w": 1440,
+   "h": 1080,
+   "autor": "Gabriel Veyre",
+   "lic": "Public domain"
+  }
+ ]
+}
