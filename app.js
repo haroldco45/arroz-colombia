@@ -121,7 +121,7 @@
     const ctl = new AbortController(); const to = setTimeout(()=>ctl.abort(), 9000);
     try {
       const r = await fetch(url, {signal:ctl.signal}); const j = await r.json();
-      return (j.articles || []).filter(a => /arroz|arrocer|fedearroz|paddy/i.test(a.title)).map(a => ({
+      return (j.articles || []).filter(a => /arroz|arrocer|fedearroz|paddy/i.test(a.title) && /arrocer|fedearroz|expoarroz|paddy|molino|cosech|cultiv|siembr|sembr|hect[aá]rea|precio del arroz|importaci|export|arancel|tlc|contrabando|agro|campo|campesin|minagricultura|semilla|grano/i.test(a.title) && !/canci[oó]n|receta|cantante|reggaet|f[uú]tbol|arroz con (huevo|pollo|leche|coco|camar)/i.test(a.title)).map(a => ({
         titulo:a.title, url:a.url, fuente:a.domain, imagen:a.socialimage || '', fecha: gdeltDate(a.seendate), vivo:true
       }));
     } finally { clearTimeout(to); }

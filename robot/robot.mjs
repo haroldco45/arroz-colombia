@@ -9,7 +9,11 @@ const QUERIES = [
   'arroz Bajo Cauca', 'arroz Córdoba Sucre Mojana', 'arroz Casanare Tolima',
   'importaciones arroz Colombia', 'TLC arroz Estados Unidos Colombia', 'MinAgricultura arroz'
 ];
-const RELEVANT = /arroz|arrocer|fedearroz|paddy|molino/i;
+// Solo noticias del sector arrocero (no canciones, recetas ni noticias de otros países sin relación)
+const STRONG = /arrocer|fedearroz|expoarroz|paddy|molino|cosech|cultiv|siembr|sembr|hect[aá]rea|precio del arroz|importaci|export|arancel|tlc|contrabando|producci[oó]n de arroz|agro|campo|campesin|minagricultura|semilla|grano/i;
+const BLOCK = /canci[oó]n|receta|cantante|reggaet|video musical|telenovela|f[uú]tbol|arroz con (huevo|pollo|leche|coco|camar)/i;
+const BLOCK_SRC = /remolacha|^cdn$|noticias sin|listín|listin|diario libre|n digital|el nuevo diario|hoy digital|el caribe|z101|acento|el capitalino/i;
+const RELEVANT_ITEM = n => /arroz|arrocer|fedearroz|paddy/i.test(n.titulo) && STRONG.test(n.titulo) && !BLOCK.test(n.titulo) && !BLOCK_SRC.test(n.fuente || '');
 
 const decode = s => s.replace(/<!\[CDATA\[(.*?)\]\]>/gs, '$1').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").trim();
 const tag = (x, t) => { const m = x.match(new RegExp(`<${t}[^>]*>([\\s\\S]*?)</${t}>`)); return m ? decode(m[1]) : ''; };
@@ -48,7 +52,7 @@ async function main(){
 
   const map = new Map();
   for (const n of [...fresh, ...(prev.items || [])]) {
-    if (!n.titulo || !RELEVANT.test(n.titulo)) continue;
+    if (!n.titulo || !RELEVANT_ITEM(n)) continue;
     const k = keyOf(n.titulo);
     const old = map.get(k);
     if (!old) map.set(k, n); else if (!old.imagen && n.imagen) old.imagen = n.imagen;
