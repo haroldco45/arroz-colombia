@@ -309,14 +309,34 @@
       if (navigator.share) { try { await navigator.share(data); } catch(e){} }
       else { await navigator.clipboard.writeText(data.url); alert(T('copied')); }
     };
-    // pestaña activa
-    const links = [...document.querySelectorAll('.tabs a')];
+    // Pestañas: tocar lleva a la sección y la marca; al hacer scroll se marca la que se ve
+    const tabsBar = $('#tabs');
+    const links = [...tabsBar.querySelectorAll('a')];
     const secs = links.map(a => document.querySelector(a.getAttribute('href')));
+    let current = -1, lockUntil = 0;
+    const setOn = i => {
+      if (i === current) return; current = i;
+      links.forEach((a,k) => a.classList.toggle('on', k===i));
+      const a = links[i]; if (!a) return;
+      // mover solo la barra de pestañas (no la página) para no cortar el desplazamiento
+      tabsBar.scrollTo({left: a.offsetLeft - (tabsBar.clientWidth - a.offsetWidth)/2, behavior:'smooth'});
+    };
+    const offsetTop = () => $('.top').offsetHeight + $('.ticker').offsetHeight + tabsBar.offsetHeight + 8;
+    tabsBar.addEventListener('click', e => {
+      const a = e.target.closest('a'); if (!a) return;
+      e.preventDefault();
+      const i = links.indexOf(a), sec = secs[i]; if (!sec) return;
+      setOn(i); lockUntil = Date.now() + 1200;
+      window.scrollTo({top: sec.getBoundingClientRect().top + window.scrollY - offsetTop(), behavior:'smooth'});
+      history.replaceState(null, '', a.getAttribute('href'));
+    });
     addEventListener('scroll', () => {
-      let on = 0; secs.forEach((s,i) => { if (s && s.getBoundingClientRect().top < 160) on = i; });
-      links.forEach((a,i) => a.classList.toggle('on', i===on));
-      if (links[on]) links[on].scrollIntoView({block:'nearest', inline:'center'});
+      if (Date.now() < lockUntil) return;
+      const lim = offsetTop() + 20; let on = 0;
+      secs.forEach((s,i) => { if (s && s.getBoundingClientRect().top <= lim) on = i; });
+      setOn(on);
     }, {passive:true});
+    setOn(0);
     document.addEventListener('visibilitychange', () => { if (!document.hidden) loadNews(); });
   }
 

@@ -4,7 +4,7 @@
   --r:18px; --sombra:0 10px 30px rgba(22,35,26,.12);
 }
 *{box-sizing:border-box}
-html{scroll-behavior:smooth;scroll-padding-top:120px}
+html{scroll-padding-top:150px}
 body{margin:0;font-family:Outfit,system-ui,sans-serif;color:var(--tinta);background:var(--papel);line-height:1.55}
 h1,h2,h3{font-family:Fraunces,Georgia,serif;line-height:1.15;margin:0 0 .4em}
 a{color:var(--verde2)}
