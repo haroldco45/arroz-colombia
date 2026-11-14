@@ -54,48 +54,33 @@
     document.querySelectorAll('.reveal:not(.in)').forEach(e => io.observe(e));
   }
 
-  /* ---------- Fotos y videos reales (Wikimedia Commons) ---------- */
-  async function commons(q, n=8, kind='bitmap'){
-    const key = 'ac_c_' + kind + q;
-    try { const c = JSON.parse(sessionStorage.getItem(key)); if (c) return c; } catch(e){}
-    const url = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*&generator=search&gsrnamespace=6&gsrlimit=' + n +
-      '&gsrsearch=' + encodeURIComponent('filetype:' + kind + ' ' + q) + '&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=900';
-    const r = await fetch(url); const j = await r.json();
-    const out = Object.values((j.query && j.query.pages) || {}).map(p => {
-      const ii = p.imageinfo && p.imageinfo[0]; if (!ii) return null;
-      const md = ii.extmetadata || {};
-      const autor = (md.Artist && md.Artist.value || '').replace(/<[^>]+>/g,'').trim();
-      return { src: ii.thumburl || ii.url, full: ii.url, page: ii.descriptionurl, autor: autor || 'Wikimedia Commons', lic: md.LicenseShortName ? md.LicenseShortName.value : '' };
-    }).filter(Boolean);
-    try { sessionStorage.setItem(key, JSON.stringify(out)); } catch(e){}
-    return out;
+  /* ---------- Fotos y videos reales de arroz (los escoge el robot, filtrados) ---------- */
+  let FOTOS = null;
+  async function loadFotos(){
+    if (FOTOS) return FOTOS;
+    try { FOTOS = await (await fetch('data/fotos.json?t=' + Date.now(), {cache:'no-store'})).json(); }
+    catch(e){ FOTOS = {secciones:{}, videos:[]}; }
+    return FOTOS;
   }
+  const fotosDe = k => ((FOTOS && FOTOS.secciones && FOTOS.secciones[k]) || []);
   async function galleries(){
-    for (const g of document.querySelectorAll('.gallery[data-q]')) {
-      try {
-        const want = g.classList.contains('big') ? 4 : 4;
-        const imgs = (await commons(g.dataset.q, 10)).slice(0, want);
-        g.innerHTML = imgs.map(i => `<figure><a href="${i.page}" target="_blank" rel="noopener"><img loading="lazy" src="${i.src}" alt="${esc(g.dataset.q)}"></a><figcaption>${esc(i.autor)} ${esc(i.lic)}</figcaption></figure>`).join('');
-      } catch(e){ g.remove(); }
-    }
+    await loadFotos();
+    document.querySelectorAll('.gallery[data-k]').forEach(g => {
+      const imgs = fotosDe(g.dataset.k).slice(0, 4);
+      if (imgs.length < 2) { g.remove(); return; }
+      g.innerHTML = imgs.map(i => `<figure><a href="${i.page}" target="_blank" rel="noopener"><img loading="lazy" src="${i.src}" alt="${esc(i.titulo.replace(/^File:|\.[a-z]+$/gi,''))}"></a><figcaption>${esc(i.autor)} ${esc(i.lic)}</figcaption></figure>`).join('');
+    });
   }
   async function hero(){
+    await loadFotos();
     const box = $('#heroMedia');
-    try {
-      const vids = await commons('rice harvest', 6, 'video');
-      const v = vids.find(x => /\.(webm|ogv|mp4)$/i.test(x.full));
-      if (v && matchMedia('(min-width:700px)').matches) {
-        box.innerHTML = `<video autoplay muted loop playsinline poster="" src="${v.full}"></video>`;
-        return;
-      }
-    } catch(e){}
-    try {
-      const imgs = (await commons('rice paddy field', 8)).slice(0,5);
-      if (!imgs.length) return;
-      box.innerHTML = imgs.map((i,k) => `<img src="${i.src}" alt="" class="${k?'':'on'}">`).join('');
-      let k = 0; const all = box.querySelectorAll('img');
-      setInterval(() => { all[k].classList.remove('on'); k = (k+1) % all.length; all[k].classList.add('on'); }, 6000);
-    } catch(e){}
+    const v = (FOTOS.videos || []).find(x => /\.(webm|ogv|mp4)$/i.test(x.full));
+    if (v && matchMedia('(min-width:700px)').matches) { box.innerHTML = `<video autoplay muted loop playsinline src="${v.full}"></video>`; return; }
+    const imgs = fotosDe('hero').concat(fotosDe('cultivo')).slice(0, 5);
+    if (!imgs.length) return;
+    box.innerHTML = imgs.map((i,k) => `<img src="${i.src}" alt="" class="${k?'':'on'}">`).join('');
+    let k = 0; const all = box.querySelectorAll('img');
+    if (all.length > 1) setInterval(() => { all[k].classList.remove('on'); k = (k+1) % all.length; all[k].classList.add('on'); }, 6000);
   }
 
   /* ---------- Noticias: robot + búsqueda en vivo ---------- */
@@ -159,10 +144,9 @@
   async function fillNewsImages(){
     const empty = [...document.querySelectorAll('#news .ph')].filter(p => !p.querySelector('img'));
     if (!empty.length) return;
-    try {
-      const imgs = await commons('rice Oryza sativa field', 12);
-      empty.forEach((p,i) => { const im = imgs[i % imgs.length]; if (im) p.innerHTML = `<img loading="lazy" src="${im.src}" alt="">`; });
-    } catch(e){}
+    await loadFotos();
+    const imgs = fotosDe('cultivo').concat(fotosDe('zonas'), fotosDe('hero'));
+    if (imgs.length) empty.forEach((p,i) => { const im = imgs[i % imgs.length]; p.innerHTML = `<img loading="lazy" src="${im.src}" alt="">`; });
   }
 
   async function loadNews(){

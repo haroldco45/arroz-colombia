@@ -1,6 +1,7 @@
 // Robot de noticias de Arroz de Colombia al Día — corre cada 30 minutos en GitHub Actions
 // Trae noticias reales (Google Noticias + GDELT) y renueva la foto de vista previa (og.jpg) con una foto real.
 import { readFile, writeFile, access } from 'node:fs/promises';
+import { fotos } from './fotos.mjs';
 
 const OUT = 'data/noticias.json';
 const UA = { 'User-Agent': 'Mozilla/5.0 (VibrasPositivasHM robot; +https://arroz-colombia.netlify.app)' };
@@ -64,6 +65,7 @@ async function main(){
   const out = { actualizado: new Date().toISOString(), zona_horaria: 'America/Bogota', total: items.length, items };
   await writeFile(OUT, JSON.stringify(out, null, 1));
   console.log('Noticias guardadas:', items.length, '· nuevas en esta vuelta:', fresh.length);
+  try { await fotos(process.env.FOTOS_FORCE === '1'); } catch (e) { console.log('fotos falló', e.message); }
   await ogImage();
 }
 
@@ -76,13 +78,11 @@ async function ogImage(){
   } catch {}
   let sharp;
   try { sharp = (await import('sharp')).default; } catch { console.log('sharp no instalado; se omite og.jpg'); return; }
-  const api = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15' +
-    '&gsrsearch=' + encodeURIComponent('filetype:bitmap rice paddy field harvest') + '&prop=imageinfo&iiprop=url|size&iiurlwidth=1600';
-  const j = await (await fetch(api, { headers: UA })).json();
-  const pics = Object.values(j.query?.pages || {}).map(p => p.imageinfo?.[0]).filter(i => i && i.width > i.height && i.width >= 1200);
+  let pics = [];
+  try { const f = JSON.parse(await readFile('data/fotos.json', 'utf8')); pics = [...(f.secciones.hero || []), ...(f.secciones.cultivo || [])].filter(p => p.w >= 1200); } catch {}
   if (!pics.length) return;
   const pick = pics[Math.floor(Math.random() * pics.length)];
-  const buf = Buffer.from(await (await fetch(pick.thumburl || pick.url, { headers: UA })).arrayBuffer());
+  const buf = Buffer.from(await (await fetch(pick.full, { headers: UA })).arrayBuffer());
   const svg = Buffer.from(`<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
     <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0.35" stop-color="#0f2314" stop-opacity="0"/><stop offset="1" stop-color="#0f2314" stop-opacity="0.92"/></linearGradient></defs>
     <rect width="1200" height="630" fill="url(#g)"/>
@@ -93,7 +93,7 @@ async function ogImage(){
   </svg>`);
   await sharp(buf).resize(1200, 630, { fit: 'cover', position: 'attention' }).composite([{ input: svg }]).jpeg({ quality: 84 }).toFile('img/og.jpg');
   await writeFile(flag, new Date().toISOString());
-  console.log('og.jpg renovada con', pick.url);
+  console.log('og.jpg renovada con', pick.titulo);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });
