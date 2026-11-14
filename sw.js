@@ -6,6 +6,6 @@ self.addEventListener('fetch', e => {
   const u = new URL(e.request.url);
   if (e.request.method !== 'GET' || u.origin !== location.origin) return;
   // Red primero: siempre lo más nuevo (noticias del robot incluidas); caché si no hay señal
-  e.respondWith(fetch(e.request).then(r => { const cp = r.clone(); caches.open(CACHE).then(c => c.put(e.request, cp)); return r; })
+  e.respondWith(fetch(e.request, {cache:'no-cache'}).then(r => { const cp = r.clone(); caches.open(CACHE).then(c => c.put(e.request, cp)); return r; })
     .catch(() => caches.match(e.request, {ignoreSearch:true})));
 });
