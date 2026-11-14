@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T19:52:43.482Z",
+ "actualizado": "2026-11-14T19:54:56.817Z",
  "secciones": {
   "hero": [
    {
@@ -259,16 +259,6 @@
     "lic": "CC BY-SA 3.0"
    },
    {
-    "titulo": "File:Arroz atollado.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Arroz_atollado.jpg/960px-Arroz_atollado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Arroz_atollado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "page": "https://commons.wikimedia.org/wiki/File:Arroz_atollado.jpg",
-    "w": 1024,
-    "h": 768,
-    "autor": "Olavia Kite from Tokyo, Japan",
-    "lic": "CC BY 2.0"
-   },
-   {
     "titulo": "File:Cultivo de arroz (164326235).jpg",
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Cultivo_de_arroz_%28164326235%29.jpg/960px-Cultivo_de_arroz_%28164326235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "full": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cultivo_de_arroz_%28164326235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -277,16 +267,6 @@
     "h": 960,
     "autor": "Edgar Jiménez from Porto, Portugal",
     "lic": "CC BY-SA 2.0"
-   },
-   {
-    "titulo": "File:Arroz con coco.JPG",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Arroz_con_coco.JPG/960px-Arroz_con_coco.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "full": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Arroz_con_coco.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "page": "https://commons.wikimedia.org/wiki/File:Arroz_con_coco.JPG",
-    "w": 1280,
-    "h": 960,
-    "autor": "Adriblanco",
-    "lic": "CC BY-SA 4.0"
    },
    {
     "titulo": "File:Cultivo de arroz en Distracción.JPG",
@@ -326,6 +306,26 @@
     "w": 960,
     "h": 640,
     "autor": "Alejandrorestrepouribe",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Measuring greenhouse gas emissions from rice production (9186).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Measuring_greenhouse_gas_emissions_from_rice_production_%289186%29.jpg/960px-Measuring_greenhouse_gas_emissions_from_rice_production_%289186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Measuring_greenhouse_gas_emissions_from_rice_production_%289186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Measuring_greenhouse_gas_emissions_from_rice_production_(9186).jpg",
+    "w": 4288,
+    "h": 2848,
+    "autor": "Neil Palmer (CIAT)",
+    "lic": "CC BY-SA 2.0"
+   },
+   {
+    "titulo": "File:Llanos Orientales - Arroz.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Llanos_Orientales_-_Arroz.jpg/960px-Llanos_Orientales_-_Arroz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/Llanos_Orientales_-_Arroz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Llanos_Orientales_-_Arroz.jpg",
+    "w": 1280,
+    "h": 960,
+    "autor": "Anvar2420",
     "lic": "CC BY-SA 4.0"
    }
   ],
