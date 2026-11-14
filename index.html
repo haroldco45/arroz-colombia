@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Arroz de Colombia al Día | Vibras Positivas HM</title>
+<meta name="description" content="Todo sobre el arroz en Colombia: cultivo, variedades, insumos, zonas, Bajo Cauca, laboratorio del molino, calculadoras, gremios, Banco Agrario, TLC y noticias que se actualizan solas cada 30 minutos.">
+<meta name="theme-color" content="#1f5130">
+<link rel="canonical" href="https://arroz-colombia.netlify.app/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vibras Positivas HM">
+<meta property="og:title" content="Arroz de Colombia al Día">
+<meta property="og:description" content="Cultivo, variedades, molino, calculadoras, Bajo Cauca, TLC y noticias del arroz con robot cada 30 minutos.">
+<meta property="og:url" content="https://arroz-colombia.netlify.app/">
+<meta property="og:image" content="https://arroz-colombia.netlify.app/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Arroz de Colombia al Día">
+<meta name="twitter:description" content="Todo el arroz de Colombia en una app: del lote al molino y a la mesa.">
+<meta name="twitter:image" content="https://arroz-colombia.netlify.app/img/og.jpg">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="img/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="top">
+  <a class="brand" href="#hoy">
+    <span class="brand-mark">AC</span>
+    <span class="brand-txt"><strong>Arroz de Colombia</strong><small data-i="tagline">al Día</small></span>
+  </a>
+  <div class="top-actions">
+    <button id="btnRefresh" class="pill" type="button" data-i="refresh">Actualizar</button>
+    <button id="btnLang" class="pill ghost" type="button">EN</button>
+  </div>
+</header>
+
+<div class="ticker" aria-live="polite"><div class="ticker-track" id="ticker"><span data-i="loadingNews">Cargando noticias del arroz...</span></div></div>
+
+<nav class="tabs" id="tabs">
+  <a href="#hoy" data-i="nav_hoy">Hoy</a>
+  <a href="#cifras" data-i="nav_cifras">Cifras</a>
+  <a href="#cultivo" data-i="nav_cultivo">Cultivo</a>
+  <a href="#insumos" data-i="nav_insumos">Variedades e insumos</a>
+  <a href="#zonas" data-i="nav_zonas">Zonas y Bajo Cauca</a>
+  <a href="#molino" data-i="nav_molino">Molino y laboratorio</a>
+  <a href="#calculadoras" data-i="nav_calc">Calculadoras</a>
+  <a href="#productores" data-i="nav_prod">Productores</a>
+  <a href="#gremios" data-i="nav_gremios">Gremios, Estado y banca</a>
+  <a href="#mundo" data-i="nav_mundo">Mundo y TLC</a>
+  <a href="#innovacion" data-i="nav_innov">Innovación</a>
+</nav>
+
+<main>
+
+<!-- HERO -->
+<section class="hero" id="top">
+  <div class="hero-media" id="heroMedia"></div>
+  <div class="hero-shade"></div>
+  <div class="hero-in">
+    <p class="kicker" data-i="heroKicker">Del lote al molino y a la mesa</p>
+    <h1 data-i="heroTitle">El grano que no puede faltar en ningún hogar colombiano</h1>
+    <p class="lead" data-i="heroLead">Cultivo, variedades, insumos, laboratorio del molino, calculadoras, pequeños productores, gremios, gobierno, Banco Agrario, TLC y noticias que trae un robot cada 30 minutos.</p>
+    <div class="hero-cta">
+      <a class="btn" href="#calculadoras" data-i="ctaCalc">Usar las calculadoras</a>
+      <a class="btn line" href="#productores" data-i="ctaProd">Registrar productores</a>
+    </div>
+    <p class="stamp" id="stamp"></p>
+  </div>
+</section>
+
+<!-- HOY -->
+<section class="block" id="hoy">
+  <div class="head">
+    <h2 data-i="hoyTitle">Hoy en el arroz</h2>
+    <p data-i="hoyLead">Esta sección se renueva cada vez que entras: búsqueda en vivo más lo que dejó el robot en su última vuelta.</p>
+  </div>
+  <div class="hoy-bar">
+    <span class="live-dot"></span><span id="hoyStatus" data-i="searching">Buscando noticias en vivo...</span>
+  </div>
+  <div class="filters" id="newsFilters"></div>
+  <div class="news-grid" id="news"></div>
+</section>
+
+<!-- CIFRAS -->
+<section class="block alt" id="cifras">
+  <div class="head">
+    <h2 data-i="cifrasTitle">El arroz en cifras</h2>
+    <p data-i="cifrasLead">Datos verificados en noviembre de 2026 con DANE, Fedearroz y prensa económica. Cada tarjeta dice de dónde sale.</p>
+  </div>
+  <div class="stats" id="stats"></div>
+</section>
+
+<!-- CULTIVO -->
+<section class="block" id="cultivo">
+  <div class="head">
+    <h2 data-i="cultivoTitle">El cultivo paso a paso</h2>
+    <p data-i="cultivoLead">Desde la preparación del terreno hasta la cosecha. Un ciclo típico va de 110 a 140 días según la variedad y la zona.</p>
+  </div>
+  <div class="gallery" data-q="rice paddy field planting"></div>
+  <div class="timeline" id="stages"></div>
+  <h3 class="sub" data-i="sistemasTitle">Sistemas de siembra</h3>
+  <div class="cards" id="sistemas"></div>
+  <h3 class="sub" data-i="mecaTitle">Mecanización y preparación del terreno</h3>
+  <div class="cards" id="meca"></div>
+  <h3 class="sub" data-i="epocasTitle">Épocas de siembra por zona</h3>
+  <div class="table-wrap"><table class="tbl" id="epocas"></table></div>
+</section>
+
+<!-- INSUMOS -->
+<section class="block alt" id="insumos">
+  <div class="head">
+    <h2 data-i="insumosTitle">Variedades, semilla e insumos</h2>
+    <p data-i="insumosLead">La semilla certificada y la nutrición balanceada son la diferencia entre perder y ganar plata en el lote.</p>
+  </div>
+  <div class="gallery" data-q="rice seeds grains"></div>
+  <div class="cards" id="variedades"></div>
+  <h3 class="sub" data-i="fertTitle">Fertilización</h3>
+  <div class="cards" id="fert"></div>
+  <h3 class="sub" data-i="sanidadTitle">Plagas, enfermedades y malezas</h3>
+  <div class="cards" id="sanidad"></div>
+</section>
+
+<!-- ZONAS -->
+<section class="block" id="zonas">
+  <div class="head">
+    <h2 data-i="zonasTitle">Zonas arroceras de Colombia</h2>
+    <p data-i="zonasLead">El DANE y Fedearroz dividen el país en cinco zonas arroceras. La del Bajo Cauca es la que tiene más productores.</p>
+  </div>
+  <div class="cards zones" id="zonasList"></div>
+  <div class="feature" id="bajocauca">
+    <div class="gallery big" data-q="rice harvest Colombia"></div>
+    <div class="feature-txt" id="bajoCaucaTxt"></div>
+  </div>
+</section>
+
+<!-- MOLINO -->
+<section class="block alt" id="molino">
+  <div class="head">
+    <h2 data-i="molinoTitle">Lo que hace el laboratorio del molino antes de pagarle al campesino</h2>
+    <p data-i="molinoLead">Cuando llega el camión con paddy verde, el molino toma una muestra y la analiza. De esas pruebas salen los descuentos. Conocerlas es la mejor defensa del productor.</p>
+  </div>
+  <div class="gallery" data-q="rice mill milling"></div>
+  <div class="steps" id="lab"></div>
+  <div class="note" id="labNote"></div>
+</section>
+
+<!-- CALCULADORAS -->
+<section class="block" id="calculadoras">
+  <div class="head">
+    <h2 data-i="calcTitle">Calculadoras del arrocero</h2>
+    <p data-i="calcLead">Cambia los valores por los de tu lote. Los números por defecto son solo de ejemplo.</p>
+  </div>
+  <div class="calc-tabs" id="calcTabs"></div>
+  <div class="calc-box" id="calcBox"></div>
+</section>
+
+<!-- PRODUCTORES -->
+<section class="block alt" id="productores">
+  <div class="head">
+    <h2 data-i="prodTitle">Sistematizado de pequeños productores</h2>
+    <p data-i="prodLead">Lleva el registro de los productores de tu vereda o asociación: lotes, variedad, siembra, cosecha estimada y venta. Se guarda en este celular y se puede exportar a Excel o mandar por WhatsApp.</p>
+  </div>
+  <form class="form" id="prodForm" autocomplete="off">
+    <label><span data-i="f_nombre">Productor</span><input name="nombre" required></label>
+    <label><span data-i="f_cel">Celular</span><input name="cel" inputmode="tel"></label>
+    <label><span data-i="f_mun">Municipio</span><input name="municipio" list="munList" required></label>
+    <label><span data-i="f_vereda">Vereda / finca</span><input name="vereda"></label>
+    <label><span data-i="f_ha">Hectáreas</span><input name="ha" type="number" step="0.1" min="0" required></label>
+    <label><span data-i="f_var">Variedad</span><input name="variedad" list="varList"></label>
+    <label><span data-i="f_sis">Sistema</span><select name="sistema"><option>Secano mecanizado</option><option>Riego</option><option>Secano manual</option></select></label>
+    <label><span data-i="f_siembra">Fecha de siembra</span><input name="siembra" type="date"></label>
+    <label><span data-i="f_rend">Rendimiento esperado (t/ha)</span><input name="rend" type="number" step="0.1" min="0" value="5"></label>
+    <label><span data-i="f_asoc">Asociación</span><input name="asoc"></label>
+    <label class="wide"><span data-i="f_obs">Observaciones</span><input name="obs"></label>
+    <div class="wide row">
+      <button class="btn" type="submit" data-i="save">Guardar productor</button>
+      <button class="btn line" type="button" id="btnCsv" data-i="csv">Exportar a Excel (CSV)</button>
+      <button class="btn line" type="button" id="btnWa" data-i="wa">Enviar resumen por WhatsApp</button>
+    </div>
+  </form>
+  <datalist id="munList"><option>Caucasia</option><option>Nechí</option><option>Cáceres</option><option>El Bagre</option><option>Zaragoza</option><option>Tarazá</option><option>Ayapel</option><option>La Apartada</option><option>Montelíbano</option><option>Puerto Libertador</option><option>San Jacinto del Cauca</option><option>Majagual</option><option>Guaranda</option><option>Sucre</option></datalist>
+  <datalist id="varList"><option>Fedearroz 67</option><option>Fedearroz 68</option><option>Fedearroz 70</option><option>Fedearroz 174</option><option>Fedearroz 2000</option><option>Fedearroz 60</option></datalist>
+  <div class="prod-summary" id="prodSummary"></div>
+  <div class="table-wrap"><table class="tbl" id="prodTable"></table></div>
+</section>
+
+<!-- GREMIOS -->
+<section class="block" id="gremios">
+  <div class="head">
+    <h2 data-i="gremiosTitle">Gremios, asociaciones, gobierno y Banco Agrario</h2>
+    <p data-i="gremiosLead">A quién acudir, qué hace cada uno y qué apoyos existen para el arrocero.</p>
+  </div>
+  <div class="cards" id="gremiosList"></div>
+  <h3 class="sub" data-i="bancaTitle">Crédito y apoyos</h3>
+  <div class="cards" id="banca"></div>
+  <h3 class="sub" data-i="normasTitle">Normas que hay que conocer</h3>
+  <div class="cards" id="normas"></div>
+</section>
+
+<!-- MUNDO -->
+<section class="block alt" id="mundo">
+  <div class="head">
+    <h2 data-i="mundoTitle">El arroz en el mundo, los vecinos y los tratados</h2>
+    <p data-i="mundoLead">Colombia compite con arroz subsidiado de Estados Unidos y con arroz barato de los países vecinos. 2030 es la fecha clave.</p>
+  </div>
+  <div class="gallery" data-q="rice terraces Asia"></div>
+  <div class="countdown" id="countdown"></div>
+  <div class="cards" id="tlc"></div>
+  <h3 class="sub" data-i="vecinosTitle">Países vecinos</h3>
+  <div class="cards" id="vecinos"></div>
+  <h3 class="sub" data-i="globalTitle">Los grandes del mundo</h3>
+  <div class="cards" id="global"></div>
+</section>
+
+<!-- INNOVACION -->
+<section class="block" id="innovacion">
+  <div class="head">
+    <h2 data-i="innovTitle">Innovación en el arroz</h2>
+    <p data-i="innovLead">Tecnología que ya se usa en Colombia y en el mundo para producir más con menos.</p>
+  </div>
+  <div class="gallery" data-q="agricultural drone rice"></div>
+  <div class="cards" id="innov"></div>
+</section>
+
+<!-- PUBLICIDAD -->
+<section class="ad" id="publicidad">
+  <div class="ad-in">
+    <p class="kicker" data-i="adKicker">Patrocina</p>
+    <h3>Super Arroz</h3>
+    <p data-i="adTxt">La marca propia de Distrileco Caucasia. Pídelo en tu tienda de Bajo Cauca, Córdoba, Nordeste, Urabá y Sucre.</p>
+    <a class="btn" href="https://wa.me/573117700431?text=Hola%2C%20quiero%20informaci%C3%B3n%20de%20Super%20Arroz" target="_blank" rel="noopener" data-i="adBtn">Pedir por WhatsApp</a>
+  </div>
+</section>
+
+<section class="block sources" id="fuentes">
+  <h2 data-i="fuentesTitle">Fuentes</h2>
+  <ul id="sourceList"></ul>
+</section>
+
+</main>
+
+<footer class="foot">
+  <p><strong>Vibras Positivas HM</strong> · <span data-i="footTxt">Apps que ayudan a la gente y a los negocios</span></p>
+  <p><a href="https://vibraspositivashm.com" target="_blank" rel="noopener">vibraspositivashm.com</a> · <a href="https://wa.me/573117700431" target="_blank" rel="noopener">311 770 0431</a></p>
+  <p class="small" data-i="disclaimer">Información de referencia. Antes de sembrar o vender, confirma con el técnico de Fedearroz, el ICA o tu molino.</p>
+</footer>
+
+<button class="share" id="btnShare" type="button" data-i="share">Compartir</button>
+
+<script src="content.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
