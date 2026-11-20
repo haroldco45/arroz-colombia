@@ -1,8 +1,15 @@
 {
- "actualizado": "2026-11-20T17:34:46.515Z",
+ "actualizado": "2026-11-20T23:43:21.537Z",
  "zona_horaria": "America/Bogota",
  "total": 34,
  "items": [
+  {
+   "titulo": "Arroceros del Tolima cuestionan propuesta de sustituir el arroz por cultivos como el marañón",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTDhyT1dfblpyQmU0ZmJaTFBkdFdtTUwyQXZQNDFTQlVVZTNOOWh6VVBGVGZwVmJnUHhsZVZJa1JPcUJ4YUVfTlJnbDdHRmluekt0RFc4blVVdXJ0RUFvckwyOHE3UUM3T0ZacHpndElRczhYYW9ra09ScFNOU1ZXcXdOUGxtTFc1RGxEUkdwLWZwRFlpaFdBSDNQMFctUWlVdEw3YzZNRGcyeV8wNzV2emRkckFldGpG0gG-AUFVX3lxTFBoYWJoZmpCMWhWSnVzYXVKYVlnR0FlQnU0b0JUWU5JMkhPekVPYm45c042RkI4Ykw3c2tWQUVjR1MyQzlGcW0xc0dkNXk2ZW1RUGg4Vm1MV21ZSTF5SVVCeERtbWZMWWx5S2xvTXFRQjc0dVdPTDljMkFFdDBYejU5T29Zd0djNnhhdDNocENyUjluM0t6VHNNMHZtM05jLWJuT0Fab1ZuOXk1a0NSOWJlYV9Eb3l6c2ZnbEpDUVE?oc=5",
+   "fuente": "Enfoque TeVe",
+   "fecha": "2026-11-20T01:29:23.000Z",
+   "imagen": ""
+  },
   {
    "titulo": "Todo listo para el 40.° Congreso Nacional Arrocero en Bogotá",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUs0LXZBOHBjdU1FeUhjX0g5Ym9RYV9EMnBFRUNiUTlKYkdfOWhmb1IxRU1HdFZlLUpQV3NvWmhTZVcxN2ZJVXlHLU80Mk9Nd1h3Q3d2dWcybWlQM3liLVRMb2RiWEowTHFhN2k2S0IwTEpCb0ZTVm9Bd2NDWHdOOVEtMlVEZ0JESDhZV2pYWQ?oc=5",
@@ -36,13 +43,6 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kdGdNbVZnc0Z6dFhDWE9FbkxBYktOc1M2UklTTXUxMUI0RFgxdk9EZF9JOFU0aGlVYjV2SDJ4R04yOEdmNWYyeVNHc0dCLUlDRTdvVXFRaVVsS2NwamxHM3pBS3RWN3FaVnFGQjhMN1BuYlNIZ1B4aWxhbGNBdw?oc=5",
    "fuente": "Telemedellín",
    "fecha": "2026-11-15T21:40:41.000Z",
-   "imagen": ""
-  },
-  {
-   "titulo": "Arroceros del Tolima cuestionan propuesta de sustituir el arroz por cultivos como el marañón",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTDhyT1dfblpyQmU0ZmJaTFBkdFdtTUwyQXZQNDFTQlVVZTNOOWh6VVBGVGZwVmJnUHhsZVZJa1JPcUJ4YUVfTlJnbDdHRmluekt0RFc4blVVdXJ0RUFvckwyOHE3UUM3T0ZacHpndElRczhYYW9ra09ScFNOU1ZXcXdOUGxtTFc1RGxEUkdwLWZwRFlpaFdBSDNQMFctUWlVdEw3YzZNRGcyeV8wNzV2emRkckFldGpG0gG-AUFVX3lxTFBoYWJoZmpCMWhWSnVzYXVKYVlnR0FlQnU0b0JUWU5JMkhPekVPYm45c042RkI4Ykw3c2tWQUVjR1MyQzlGcW0xc0dkNXk2ZW1RUGg4Vm1MV21ZSTF5SVVCeERtbWZMWWx5S2xvTXFRQjc0dVdPTDljMkFFdDBYejU5T29Zd0djNnhhdDNocENyUjluM0t6VHNNMHZtM05jLWJuT0Fab1ZuOXk1a0NSOWJlYV9Eb3l6c2ZnbEpDUVE?oc=5",
-   "fuente": "Enfoque TeVe",
-   "fecha": "2026-11-15T20:50:14.000Z",
    "imagen": ""
   },
   {
@@ -130,13 +130,6 @@
    "imagen": ""
   },
   {
-   "titulo": "Fedearroz advierte que gravar insumos agropecuarios elevaría costos e hizo llamado al Gobierno Nacional",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMWZ2YW1PbjVwbkVJU2llbWhxMndidDVockg2LTVJcnUyQWtoelJvQ2hCc25yMXpxWWdSU1JTTnVtbUZlaThxNGxpZXpaNjcxblRfSUJRLXphVFgxVVZkZDlsVko3eEk2TV9HeWpyUC03VmxCMUE5UUR1SUJxZjExQ0RjbGlsYWpjM3dwTzZSMDV4WWFjSmlwb3A3SFU4VS1qSVc5MVl2MkxOQjV2dXFBTTl2UE1SVG5NREpRRUZmbVUxTkp2YzRDUGlMeGNWQ1pJczFRNk95Y3dueTFmSWhKaEV1WXd5UFczWk5yQVJHVWxDdzloekpIOFJ30gH_AUFVX3lxTFBfNzNkU2NrbDR6ZXJUTXlxdzZNV3dING1IVUEwZExoSV9ILVNudzBDbGwxamNyelpyY3k1VDlDaFdpX1RIMUk0TElrRVNLUjNCWnJaazk4NzZvQ1kydG9yeUxpbFVJeEwwM2hReFhLNUYzWW1xVFJ4VXdEa2VFeFpoa2Q0NWZneFdGTWxoUDRJUmphR05QalNkb284dzJHTlhlSWl0WGJxUVZhZFdNTWJOWUFoOWtFX3V3X3Z3dlBEMjdPVm5jVzZuMXdaZlR0Q3RidktFd01pSGZ5VFI5QlRuMkJkeFFnQ0JPYzJDUDJxTHpteWVkVXhiYWhGa2lWRQ?oc=5",
-   "fuente": "Revista Semana",
-   "fecha": "2026-11-12T16:13:15.000Z",
-   "imagen": ""
-  },
-  {
    "titulo": "Fedearroz respalda ajuste fiscal del Gobierno, pero alerta por IVA que encarecería la producción de alimentos",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFhTblVwbkQ2UEhISmk2WXp2NW9PV0tUeUFGaFJ2WXhsYW4wOGdRNEFtdnhOVzBmRjBYOVQ1b3QxbDk1YkxEY1pGenJXamFqRFhPUVRoZVdFWElBSUp4R09kYXkzU3Bvd3VOdkVSbjJaLUZpdnNCVFdtU2xCNFg0dGd6dG9WYWlqRGxiVlZEOUhJWE85R0ZiNHZMU0g2ZnYzckRr0gGjAUFVX3lxTE9nMU9HaHZVYVZQQ1E5VnVqMnpjVS1NcS1NMGxRMFh3dF9pTTUtMU1fV0VQRUtyckRIRWdkZ2JMYmtlbGtlQkY1V3NOdmpUTDNkZWNPSmFjcmZzUkR6cHFSamNTLTVxVWtsR0NPMFVud2hqSXliTW9hR05EeDVTTTI3UE9DX0NJa0xpV3E0bUpQdUxnNEJoSWFwSjhMVm81WVZ3NXc?oc=5",
    "fuente": "La FM",
@@ -155,6 +148,13 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1NlajB5dk1PVTY5RDhTLUpmaUxFZHo3bDNNMzVSck9JTy1xTlZBSnNCNFFYV1hlcXhKa3hWLUcycVlzbGxiR1RwLXFwZk44eWIyeDlhVUthOS14dE0wS3BxTUZybEF5UzZOZlBsVFIyQzI5WmowekxNaW01OGQxZUJCcXdaZDDSAZsBQVVfeXFMT0J2ZTd4WEJqNE9pYlRsUmNJTHAybmxocmVIZDZQR0RYeTlidGxZRDByR3hCUGxZaThjZlJ0QXFhOEg4WTNJWUx1MkY2bjZPVElFR2N1TW1FcFNhTnIyMlJDTjB0b0xVU2REQ3Z6dUVuS2lCOTVITDRyanJUUHhYR2RTdGZjZzFQdm0xWmEtOVloU01NTWtkZGVjNVk?oc=5",
    "fuente": "Caracol Radio",
    "fecha": "2026-11-12T13:14:54.000Z",
+   "imagen": ""
+  },
+  {
+   "titulo": "Fedearroz advierte que gravar insumos agropecuarios elevaría costos e hizo llamado al Gobierno Nacional",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMWZ2YW1PbjVwbkVJU2llbWhxMndidDVockg2LTVJcnUyQWtoelJvQ2hCc25yMXpxWWdSU1JTTnVtbUZlaThxNGxpZXpaNjcxblRfSUJRLXphVFgxVVZkZDlsVko3eEk2TV9HeWpyUC03VmxCMUE5UUR1SUJxZjExQ0RjbGlsYWpjM3dwTzZSMDV4WWFjSmlwb3A3SFU4VS1qSVc5MVl2MkxOQjV2dXFBTTl2UE1SVG5NREpRRUZmbVUxTkp2YzRDUGlMeGNWQ1pJczFRNk95Y3dueTFmSWhKaEV1WXd5UFczWk5yQVJHVWxDdzloekpIOFJ30gH_AUFVX3lxTFBfNzNkU2NrbDR6ZXJUTXlxdzZNV3dING1IVUEwZExoSV9ILVNudzBDbGwxamNyelpyY3k1VDlDaFdpX1RIMUk0TElrRVNLUjNCWnJaazk4NzZvQ1kydG9yeUxpbFVJeEwwM2hReFhLNUYzWW1xVFJ4VXdEa2VFeFpoa2Q0NWZneFdGTWxoUDRJUmphR05QalNkb284dzJHTlhlSWl0WGJxUVZhZFdNTWJOWUFoOWtFX3V3X3Z3dlBEMjdPVm5jVzZuMXdaZlR0Q3RidktFd01pSGZ5VFI5QlRuMkJkeFFnQ0JPYzJDUDJxTHpteWVkVXhiYWhGa2lWRQ?oc=5",
+   "fuente": "Revista Semana",
+   "fecha": "2026-11-12T08:00:00.000Z",
    "imagen": ""
   },
   {
