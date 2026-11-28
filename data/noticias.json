@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T23:14:26.894Z",
+ "actualizado": "2026-11-28T04:52:45.579Z",
  "zona_horaria": "America/Bogota",
  "total": 66,
  "items": [
@@ -7,7 +7,7 @@
    "titulo": "MinAgricultura lanza plan estratégico para fortalecer la competitividad del arroz en Colombia",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeU5mSjkyNjlUSUxKQktnVkpvTEpiaGhPWHNmajFuMDRZWHpjaGxrc3ZqT2pUa0hWVEtrVzhaSnA4Znk0M2hhSDE1aDBBM09sVVhIWXprRVN4NnZ0YmhuUG9XNGNjLVZJZ1M5RGhpdkhPRjh5Qms3LTlNUy1ZX09WbDRNSmx5T2t1MnFXYTl3N25NX1FNWkpMUzA5dWlQOTdCUUdfY1RlUU45bnFxb3ZKd0JIb0N4N2RqOGtWS2tmQQ?oc=5",
    "fuente": "BusinessCol.com",
-   "fecha": "2026-11-27T22:17:50.000Z",
+   "fecha": "2026-11-28T00:44:24.000Z",
    "imagen": ""
   },
   {
@@ -116,17 +116,17 @@
    "imagen": ""
   },
   {
+   "titulo": "Arroz verde vietnamita: Elevando el valor de los granos de arroz.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WNHo4UHM1RkZCOGxDMXlSaFp0REFFbU9xcThtR21TMGVFbGJYeFlDTDIwd1JGS2FPb01VUi1jdkhVYlp3UXhRc29wLWZ5bnEtU3h5WWkwaTkydkRkYndlV0poelYyYzNwaWFUMXlEQTFXd3BUaUVn?oc=5",
+   "fuente": "Vietnam.vn",
+   "fecha": "2026-11-25T04:12:54.000Z",
+   "imagen": ""
+  },
+  {
    "titulo": "Finagro aplaza al 12 de febrero los contratos para comprar deudas de arroceros: el tope general es de $40 millones por productor",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ua3Y5ZTNwQ19NRm9rQm81OWpjWVZzR3U1STlFOWRLcGU1c3NDWktabnN4Z2xKakR3cnJ0NkcyNl9YQnFGOU9CY01IMG5CV1Q4OFBMbWZpZ2RPTV9nSzBRU2hKVHB2UQ?oc=5",
    "fuente": "Mas Colombia",
    "fecha": "2026-11-25T03:51:23.000Z",
-   "imagen": ""
-  },
-  {
-   "titulo": "Arroz verde vietnamita: Elevando el valor de los granos de arroz.",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zVFg0eWQ0UUZhUlAxVDhMU1ZWVjZWbXJYRXVaRHgzTDdxRzNiR3pLZzRnc2xZYUl0T1RJb0VOeGZ3YUFMZXJzNXRmUzJRNS1aaVQ4?oc=5",
-   "fuente": "شبكة تواصل الإخبارية",
-   "fecha": "2026-11-25T03:41:12.000Z",
    "imagen": ""
   },
   {
@@ -207,13 +207,6 @@
    "imagen": ""
   },
   {
-   "titulo": "Todo listo para el 40.° Congreso Nacional Arrocero en Bogotá",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUs0LXZBOHBjdU1FeUhjX0g5Ym9RYV9EMnBFRUNiUTlKYkdfOWhmb1IxRU1HdFZlLUpQV3NvWmhTZVcxN2ZJVXlHLU80Mk9Nd1h3Q3d2dWcybWlQM3liLVRMb2RiWEowTHFhN2k2S0IwTEpCb0ZTVm9Bd2NDWHdOOVEtMlVEZ0JESDhZV2pYWQ?oc=5",
-   "fuente": "areacucuta.com",
-   "fecha": "2026-11-20T01:01:42.000Z",
-   "imagen": ""
-  },
-  {
    "titulo": "IVA a insumos agropecuarios pondría en riesgo la competitividad arrocera según Fedearroz",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVd3NlF0b1RGLU5QTmQwNDA0SkVlSjRaa0NqelZsTkRCd3ZwaFNZREo2UmwxVzVNN2lmTDdpdFJIa01fejFtSXIyN1laSkFRcXZ5cEhkR1Vkd3NjR29yQ0xydGdiZHV4SFF4eFZvOHQxbXdLTGpEUlhtUU54Uld5cDRhcVlNaktNV1B0emtNd2t1dTM4LU9Dc19vMEloSmxGS2lTVmF1QzA5MWxnYndsU2dPNGx6dEFGWVYzM0VRZw?oc=5",
    "fuente": "Mi Canal 2 -",
@@ -221,10 +214,17 @@
    "imagen": ""
   },
   {
+   "titulo": "Todo listo para el 40° congreso nacional arrocero en Bogotá",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0I5VXc5SGE1VUtWNjgtc2FiR2xYRVlfdjRjdjJMQnkyYVdjMUZOVzdnRE0xQ0FqT1R3alNkekJGWllqcFh3cUhibGdWLTBUeE5fUXE5UkYxQUlPaktHTnJhYmJacGh2OXM3UFQ3Ri1TaHBIRkd6UW9YeXh0cXdRMk1XaDI2OTFmU1VKbEM5V3l1UDZibTlMeXNiTFMzaGhjaWVVMS1QNFo1Q25xY2Vz?oc=5",
+   "fuente": "PRENSA LIBRE CASANARE",
+   "fecha": "2026-11-19T13:44:12.000Z",
+   "imagen": ""
+  },
+  {
    "titulo": "“Afectar los costos sería afectar el empleo”: Fedearroz lanza alerta por Ley de Rescate Fiscal",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVY2WERJeXF0MUxpcEtJTmR1QVVVN1dNaW85Zk1POHFkT0RhR3NlQTQyemlGOGZVMDllYm9VQ0ZjMWZkRFQ1WUl0TVE2VXFFVTItVE94LVM1MUhPU1oxRFlNNDlvOVp3WHJrNmxXWHMzMVdmWXk3dTdfWWtmV05TMmV0XzBjTVBtRG0zMzBOSlJOWFNEeWZNTjBKTERIam01M0VId1c1WlJrQVJTdUlXckhYc3U4WDVPOUYxa3d4VDZJUVU?oc=5",
    "fuente": "Ecos del Combeima",
-   "fecha": "2026-11-18T08:05:00.000Z",
+   "fecha": "2026-11-18T08:00:00.000Z",
    "imagen": ""
   },
   {
